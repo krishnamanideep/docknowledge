@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import logoImage from "@assets/Untitled_design_1769111079400.png";
+import logoImage from "@assets/Untitled_design_(1)_1769111819978.png";
 import {
   Users,
   Target,
