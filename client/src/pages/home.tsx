@@ -1,7 +1,7 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import logoImage from "@assets/WhatsApp_Image_2026-01-22_at_15.41.07_1769110238733.jpeg";
+import logoImage from "@assets/Untitled_design_1769111079400.png";
 import {
   Users,
   Target,
