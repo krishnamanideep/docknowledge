@@ -147,7 +147,7 @@ export default function Home() {
               <img
                 src={logoImage}
                 alt="DOCK Logo"
-                className="h-24 w-auto bg-white dark:bg-white rounded-md p-2"
+                className="h-24 w-auto"
                 data-testid="img-logo"
               />
             </div>
@@ -390,7 +390,7 @@ export default function Home() {
               <img
                 src={logoImage}
                 alt="DOCK Logo"
-                className="h-20 w-auto bg-white dark:bg-white rounded-md p-2"
+                className="h-20 w-auto"
                 data-testid="img-footer-logo"
               />
             </div>
